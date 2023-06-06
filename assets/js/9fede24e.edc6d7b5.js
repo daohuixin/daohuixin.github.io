@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_classic_typescript=self.webpackChunkdocusaurus_classic_typescript||[]).push([[6186],{1705:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/daohuixin/daohuixin.github.io/blog/tags/hello","allTagsPath":"/daohuixin/daohuixin.github.io/blog/tags","count":2}')}}]);
